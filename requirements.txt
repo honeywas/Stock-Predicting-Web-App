@@ -1,6 +1,6 @@
 keras==2.8.0
 matplotlib==3.4.3
-numpy>1.22.2
+numpy==1.9.1
 pandas==1.4.1
 pandas_datareader==0.10.0
 Pillow==9.1.0
