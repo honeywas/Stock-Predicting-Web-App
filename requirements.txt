@@ -1,0 +1,14 @@
+keras==2.8.0
+matplotlib==3.4.3
+numpy==1.22.2
+pandas==1.4.1
+pandas_datareader==0.10.0
+Pillow==9.1.0
+plotly==5.6.0
+requests==2.26.0
+scikit_learn==1.0.2
+st_annotated_text==3.0.0
+streamlit==1.5.1
+streamlit_lottie==0.0.3
+streamlit_option_menu==0.3.2
+streamlit_player==0.1.5
